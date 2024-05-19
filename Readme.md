@@ -1,1 +1,2 @@
-Starter for go server created using gin & mongodb
+Starter for go http server created using gin & mongodb
+Follows nestjs styled coding conventions
